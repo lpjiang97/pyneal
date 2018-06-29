@@ -6,3 +6,7 @@
 *scannerConfig.yaml
 *.log
 */__pycache__/*
+
+
+# ignore virtualenv
+*pyneal_env/*
